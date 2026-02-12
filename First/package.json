@@ -1,0 +1,15 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "this is the first demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhinav verma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
